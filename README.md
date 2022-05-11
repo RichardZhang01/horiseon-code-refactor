@@ -11,7 +11,7 @@
 
 ## Screenshots and Link
 
-> [Link to the live URL](https://richardzhang01.github.io/horiseon-code-refactor/)
+> [Link of the live URL](https://richardzhang01.github.io/horiseon-code-refactor/)
 
 ![Screenshot of the top half of the refactored webpage](./assets/images/screenshot-code-refactor-top.png)
 
